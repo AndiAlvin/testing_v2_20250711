@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andi Saputra",
+      "email": "andi@example.com",
+      "age": 28,
+      "is_active": true,
+      "roles": ["admin", "editor"],
+      "profile": {
+        "address": "Jl. Merpati No. 10, Jakarta",
+        "phone": "+628123456789",
+        "joined_date": "2023-01-15"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Budi Santoso",
+      "email": "budi@example.com",
+      "age": 32,
+      "is_active": false,
+      "roles": ["viewer"],
+      "profile": {
+        "address": "Jl. Melati No. 23, Bandung",
+        "phone": "+628987654321",
+        "joined_date": "2022-08-21"
+      }
+    }
+  ]
+}
