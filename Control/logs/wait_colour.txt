@@ -1,0 +1,23 @@
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] [icons\2025_07_16_16_17_20_498184cropped_icon.png ]Colour not found, continuing
+[INFO   ] 0.07658179012345678
+[INFO   ] Error Icon Can't be found
+[INFO   ] Updating limits and counts
