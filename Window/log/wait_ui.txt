@@ -1,0 +1,6 @@
+[ERROR  ] Wait UI encountered an error
+Traceback (most recent call last):
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\Modules\03_Window\008_wait_ui\main.py", line 205, in run
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\subprocess.py", line 356, in check_output
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\subprocess.py", line 438, in run
+subprocess.CalledProcessError: Command '['python', 'C:\\Users\\batam\\DOCUME~1\\GLEEMA~2\\GLEEMA~1\\packages\\uiautomation\\uia.py', '{"target_element": "icons\\\\2025_07_21_15_40_55_777650cropped_icon.png", "parent_element": ["PT Jasa Armada Indonesia Tbk (IPCM.JK) Stock Price, News, Quote & History - Yahoo Finance - Google Chrome - PNM UI", "Chrome_WidgetWin_1", "Pane", ["PT Jasa Armada Indonesia Tbk (IPCM.JK) Stock Price, News, Quote & History - Yahoo Finance - Google Chrome - PNM UI"], 3], "timeout": "10", "type": "Wait"}']' returned non-zero exit status 1.
