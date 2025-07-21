@@ -1,0 +1,10 @@
+[ERROR  ] Assign to Clipboard encountered an error
+Traceback (most recent call last):
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\Modules\04_Variable\002_clipboard\main.py", line 96, in run
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\GleematicRuntime\lib\site-packages\pyperclip\__init__.py", line 659, in lazy_load_stub_copy
+    return copy(text)
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\GleematicRuntime\lib\site-packages\pyperclip\__init__.py", line 463, in copy_windows
+    text = _stringifyText(text) # Converts non-str values to str.
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\GleematicRuntime\lib\site-packages\pyperclip\__init__.py", line 111, in _stringifyText
+    raise PyperclipException('only str, int, float, and bool values can be copied to the clipboard, not %s' % (text.__class__.__name__))
+pyperclip.PyperclipException: only str, int, float, and bool values can be copied to the clipboard, not list
