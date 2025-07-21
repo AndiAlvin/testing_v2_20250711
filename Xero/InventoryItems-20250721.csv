@@ -1,0 +1,19 @@
+ItemCode,ItemName,Quantity,PurchasesDescription,PurchasesUnitPrice,PurchasesAccount,PurchasesTaxRate,SalesDescription,SalesUnitPrice,SalesAccount,SalesTaxRate,InventoryAssetAccount,CostOfGoodsSoldAccount,Status,InventoryType
+BOOK,Fish out of Water: Finding Your Brand,,'Fish out of Water: Finding Your Brand,0,,,'Fish out of Water: Finding Your Brand,19.95,200,Tax on Goods,,,Active,Untracked
+DevD,Development work - developer onsite per day,,Development work - develper onsite per day,0,,,Development work - develper onsite per day,650,200,Tax on Consulting,,,Active,Untracked
+DevH,Development work - per hour rate,,Development work - per hour rate,0,,,Development work - per hour rate,90,200,Tax on Consulting,,,Active,Untracked
+GB1-White,Golf balls - white single,,Golf balls - white single. Wholesale catalog item #020812-1,4.2,300,Tax on Purchases,Golf balls - white single. Please reorder with code GB1-White,5.6,200,Tax on Goods,,,Active,Untracked
+GB3-White,Golf balls - white 3-pack,,Golf balls - white 3 pack. Wholesale catalog item #020812-3,12,300,Tax on Purchases,Golf balls - white 3 pack. Please reorder with code GB3-White,15,200,Tax on Goods,,,Active,Untracked
+GB6-White,Golf balls - white 6-pack,,Golf balls - white 6 pack. Wholesale catalog item #020812-6,20,300,Tax on Purchases,Golf balls - white 6 pack. Please reorder with code GB6-White,24.99,200,Tax on Goods,,,Active,Untracked
+GB9-White,Golf balls - white 9 pack,,Golf balls - white 9 pack. Wholesale catalog item #020812-9,25,300,Tax on Purchases,Golf balls - white - 9 pack. Please reorder with code GB9-White,32,200,Tax on Goods,,,Active,Untracked
+PMBr,Project management & implementation - branding,,Project management & implementation - branding workshop with your team,0,,,Project management & implementation - branding workshop with your team,250,200,Tax on Consulting,,,Active,Untracked
+PMD,Project Management - onsite daily rate,,Project Management - onsite daily rate,0,,,Project Management - onsite daily rate,700,200,Tax on Consulting,,,Active,Untracked
+PMDD,Project management & implementation due diligence,,Project management & implementation - 'due diligence' stocktake of your project scope/schedule/implementation plan/outcome measures (hourly rate as agreed),0,,,Project management & implementation - 'due diligence' stocktake of your project scope/schedule/implementation plan/outcome measures (hourly rate as agreed),105,200,Tax on Consulting,,,Active,Untracked
+PMWe,Project management & implementation - website,,Project management & implementation - website revamp workshop with your team,0,,,Project management & implementation - website revamp workshop with your team,300,200,Tax on Consulting,,,Active,Untracked
+Support-M,Desktop/network support via email & phone,,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,,,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",500,200,Tax on Consulting,,,Active,Untracked
+Train-MS,Half day training - Microsoft Office,,Half day training - Microsoft Office,0,,,Half day training - Microsoft Office,500,200,Tax on Consulting,,,Active,Untracked
+TSL - Black,T-Shirt Large Black,5,Company Branded T-Shirt Large Black.  Order Code #2412,20,,Tax Exempt,Company Branded T-Shirt Large Black.  Check out our website for other offers!,40,200,Tax on Consulting,630,310,Active,Tracked
+TSM - Black,T-Shirt Medium Black,4,Company Branded T-Shirt Medium Black.  Order code #2382,20,,Tax Exempt,Company Branded T-Shirt Medium Black.  Check out our website for other offers!,40,200,Tax on Consulting,630,310,Active,Tracked
+TSS - Black,T-Shirt Small Black,7,Company Branded T-Shirt Small Black.  Order code #2308,20,,Tax Exempt,Company Branded T-Shirt Small Black.  Check out our website for other offers!,40,200,Tax on Consulting,630,310,Active,Tracked

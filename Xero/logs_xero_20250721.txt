@@ -1,0 +1,11 @@
+[INFO   ] [Xero        ] Authenticating...
+[INFO   ] [Xero        ] Automatically open browser for authentication. If it doesn't, open this link manually on your browser.
+https://login.xero.com/identity/connect/authorize?response_type=code&client_id=85A95B3AD78146C2BA3A7AC3012311A8&scope=offline_access+accounting.transactions+accounting.contacts.read+accounting.settings.read&redirect_uri=http%3A%2F%2Flocalhost%3A8888%2Fcallback&code_challenge=0X0go4rmQRiliPrFzyPGTENb_gXBvIT152gh7IgzcXk&code_challenge_method=S256
+[INFO   ] [Xero        ] Auth server running on http://localhost:8888. Press Ctrl+C to force stop.
+ 127.0.0.1 - - [21/Jul/2025 10:51:45] "GET /callback?code=J0dA_pUxsZbiDweJHycBqrvMF8r_J6QpsYFxlpEAzAU&scope=accounting.transactions%20accounting.contacts.read%20accounting.settings.read%20offline_access HTTP/1.1" 200 -
+[ERROR  ] Xero Create Bills function encountered an error
+Traceback (most recent call last):
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\Modules\28_Xero\001_create_invoice\main.py", line 315, in run
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\Modules\28_Xero\api\api_client.py", line 255, in authenticate
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\Modules\28_Xero\api\api_client.py", line 119, in _start_callback_server
+AttributeError: 'HTTPServer' object has no attribute 'code'
