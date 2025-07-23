@@ -1,0 +1,9 @@
+DevTools listening on ws://127.0.0.1:54507/devtools/browser/0cbe881a-7fdc-4d19-8383-ad54382df271
+[24100:25256:0723/132125.213:ERROR:net\socket\ssl_client_socket_impl.cc:896] handshake failed; returned -1, SSL error code 1, net_error -101
+[24100:25256:0723/132126.485:ERROR:net\socket\ssl_client_socket_impl.cc:896] handshake failed; returned -1, SSL error code 1, net_error -200
+[24100:25256:0723/132126.485:ERROR:net\socket\ssl_client_socket_impl.cc:896] handshake failed; returned -1, SSL error code 1, net_error -200
+[24100:25256:0723/132126.884:ERROR:net\socket\ssl_client_socket_impl.cc:896] handshake failed; returned -1, SSL error code 1, net_error -200
+[24100:25256:0723/132135.966:ERROR:net\socket\ssl_client_socket_impl.cc:896] handshake failed; returned -1, SSL error code 1, net_error -200
+[INFO   ] Updating limits and counts
+[INFO   ] [Calls       ] {'ManualScraping': {'Open URL': 1}}
+[INFO   ] [Pages       ] {}

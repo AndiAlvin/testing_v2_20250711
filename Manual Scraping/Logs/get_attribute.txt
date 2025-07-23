@@ -1,0 +1,23 @@
+[ERROR  ] [LOG         ] Write to log (2)failed with error message below
+Traceback (most recent call last):
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\Model\designer_screen.py", line 2598, in write_to_logs
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\__init__.py", line 179, in dump
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 430, in _iterencode
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 404, in _iterencode_dict
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 404, in _iterencode_dict
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 404, in _iterencode_dict
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 437, in _iterencode
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 180, in default
+TypeError: Object of type 'VariableExplorer' is not JSON serializable
+015 find by class None
+[ERROR  ] [LOG         ] Write to log (2)failed with error message below
+Traceback (most recent call last):
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\Model\designer_screen.py", line 2598, in write_to_logs
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\__init__.py", line 179, in dump
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 430, in _iterencode
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 404, in _iterencode_dict
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 404, in _iterencode_dict
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 404, in _iterencode_dict
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 437, in _iterencode
+  File "C:\Users\batam\DOCUME~1\GLEEMA~2\GLEEMA~1\json\encoder.py", line 180, in default
+TypeError: Object of type 'VariableExplorer' is not JSON serializable
